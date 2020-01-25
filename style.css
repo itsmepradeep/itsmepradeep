@@ -1,0 +1,60 @@
+#top{
+  height: 200px;
+  width: 80%;
+  background-image: url("https://miro.medium.com/max/1124/1*92adf06PCF91kCYu1nPLQg.jpeg");
+}
+
+.img1{
+    height:80%;
+    margin-left:40px;
+    margin-top:110px;
+}
+
+#middle{
+    top:260px;
+    margin-top:60px;
+    margin-left:160px;
+} 
+
+#detail{
+      margin-top:25px;
+
+}
+
+#edit{
+text-align: right;
+  margin-top: -20;
+  font-size: 20;
+  color: dodgerblue ;
+}
+
+
+#para{
+  font-size: 18;
+}
+
+#section{
+    top:400px;
+    margin-left: 144px;
+    margin-top: 10px;
+
+}
+
+#bottom{
+    margin-left:120px;
+    margin-top:40px;
+    width:80%;
+    border:1px solid;
+    border-left:none;
+    border-right:none;
+    border-color:grey;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+#footer{
+text-align: center;
+  margin-left: 35%;
+  margin-top: 10px;
+  color: #1E90FF;
+}
